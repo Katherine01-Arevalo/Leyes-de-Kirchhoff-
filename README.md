@@ -15,7 +15,7 @@
 
 
 6.Aportaciones 
-
+https://github.com/Katherine01-Arevalo/Leyes-de-Kirchhoff-/blob/main/img/VOLTAJE.png
 
 7.Concluciones
 
