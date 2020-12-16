@@ -16,7 +16,10 @@
 
 6.Aportaciones 
 
-[voltaje](https://github.com/Katherine01-Arevalo/Leyes-de-Kirchhoff-/blob/main/img/VOLTAJE.png)
+
+
+
+
 7.Concluciones
 
 Las leyes de Kirchhoff  son de suma importancia  ya que facilita el entendimiento de un circuito eléctrico, con el apoyo de las leyes de Ohm se obtiene  la facilidad de estudiar cada resistencia del circuito. Por medio de  las leyes de Kirchhoff se llega a analizar   mediante dos técnicas por  mallas o nodos, llegando a la veracidad de que mediante esta ley  se obtiene el voltaje y la corriente en cada resistencia.
