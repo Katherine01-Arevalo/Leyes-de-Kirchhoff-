@@ -6,7 +6,10 @@
 
 
 3.Diagramas
-
+Circuito eléctrico mixto
+![circuito](https://github.com/Katherine01-Arevalo/Leyes-de-Kirchhoff-/blob/main/img/diagrama1.png)
+Circuito realizado en tinkercad
+![cirucuito](https://github.com/Katherine01-Arevalo/Leyes-de-Kirchhoff-/blob/main/img/circuito_tinkercad.png)
 
 4.Lista de componentes 
 
