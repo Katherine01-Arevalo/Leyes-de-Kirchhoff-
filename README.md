@@ -1,11 +1,12 @@
 # Leyes-de-Kirchhoff-
-1. Objetivos
+
+**1.OBJETIVOS**
+
 -	Inducir al estudiante a investigar y profundizar los conocimientos adquiridos en clases. 
 -	Desarrollar las capacidades de resolución de cálculos y construcción de circuitos básicos de los estudiantes. 
 -	Evaluar y estudiar un circuito mediante el uso de las Leyes de Kirchhoff de Voltaje y de Corrientes.
-**
-2.Marco Teórico**
 
+**2. MARCO TEÓRICO**
 
 3.Diagramas
 
