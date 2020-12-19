@@ -8,34 +8,30 @@
 
 **2. MARCO TEÓRICO**
 
-3.Diagramas
+**3.DIAGRAMAS**
 
 Circuito eléctrico mixto
 
 ![circuito](https://github.com/Katherine01-Arevalo/Leyes-de-Kirchhoff-/blob/main/img/diagrama1.png)
 
 
-4.Lista de componentes 
+**4.LISTA DE COMPONENTES**
 
+**5.EXPLICACIÓN**
 
-5.Explicación
+**6.APORTACIONES**
 
-
-6.Aportaciones 
 Circuito electrico  hecho en tinkercad 
 
 ![circuito](https://github.com/Katherine01-Arevalo/Leyes-de-Kirchhoff-/blob/main/img/CORRIENTE.png)
 
-
-
-7.Concluciones
+**7.CONCLUSIONES**
 
 Las leyes de Kirchhoff  son de suma importancia  ya que facilita el entendimiento de un circuito eléctrico, con el apoyo de las leyes de Ohm se obtiene  la facilidad de estudiar cada resistencia del circuito. Por medio de  las leyes de Kirchhoff se llega a analizar   mediante dos técnicas por  mallas o nodos, llegando a la veracidad de que mediante esta ley  se obtiene el voltaje y la corriente en cada resistencia.
 
  La obtención de los datos se dio de manera teórica y practica llegando a una semejanza de valores , en los valores que son diferentes esto se da ya que de manera teórica trabajamos con algunos decimales no todos.
 
-
-8. Bibliografías
+**8.BIBLIOGRAFÍAS**
 
 -Bustamante M. J. (s.f.) Practica 3: Leyes de Ohm y Kirchhoff. Universidad Tecnologica de Pereira. Recuperado de: https://media.utp.edu.co/ingenieria-fisica/archivos/Practica_3Gen.pdf
 
@@ -50,11 +46,8 @@ Las leyes de Kirchhoff  son de suma importancia  ya que facilita el entendimient
 -	EcuRed (s.f.) Voltaje. EcuRed. Recuperado de: https://www.ecured.cu/Voltaje
 
 
+**9.ANEXOS**
 
 
-
-
-
-9.Anexs
 
 
