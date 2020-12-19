@@ -16,6 +16,11 @@ Circuito eléctrico mixto
 
 
 **4.LISTA DE COMPONENTES**
+- 1 Fuente de voltaje de C.D.
+- 2 multímetros digitales.
+- Resistores: 1 k (1), 2.2 k (2), 1.8 k (1), 3.9 k (1).
+- 1 Protoboard 
+
 
 **5.EXPLICACIÓN**
 
