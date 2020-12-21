@@ -8,6 +8,10 @@
 
 **2. MARCO TEÓRICO**
 
+![Corriente_Kirchhoff](https://github.com/Katherine01-Arevalo/Leyes-de-Kirchhoff-/blob/main/img/Corriente_Kirchhoff.png)
+
+![Corriente_Kirchhoff](https://github.com/Katherine01-Arevalo/Leyes-de-Kirchhoff-/blob/main/img/Voltaje_Kirchhoff.png)
+
 **3.DIAGRAMAS**
 
 Circuito eléctrico mixto
