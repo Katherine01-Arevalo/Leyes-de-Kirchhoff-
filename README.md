@@ -26,6 +26,7 @@ Circuito eléctrico mixto
 **5.EXPLICACIÓN**
 
 TEÓRICA
+
  Para   validar las leyes de Kirchhoff  de manera teórica y practica se procedió con la ley de voltaje, mediante  el uso de las dos mallas que tiene el circuito eléctrico   y la ley de Ohm se  procedió a  obtener la corriente en cada malla, en  la primera malla se obtuvo  una corriente  de  I=2.05mA y en la segunda de I=0.96mA  con los datos de la corriente y la resistencias se puede obtener el voltaje en cada resistor , ya obtenido cada  voltaje  se reafirma la ley de voltaje de Kirchoff que  establece que la suma de los aumentos y caídas de voltaje es cero.
 
 
