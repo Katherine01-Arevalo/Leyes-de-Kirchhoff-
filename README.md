@@ -30,8 +30,8 @@ TEÓRICA
 
 
 PRACTICA
-Para este laboratorio se uso el simulador Tinkercad. 
-Se usó una placa de pruebas pequeña y en esta se montaron los resistores. El primer resistor fue de 1 k, luego en serie uno de 3.9 k. En el nodo en medio de estos dos resistores se conectaron en serie dos de 2.2 k para luego unirse al nodo que sale del polo negativo del resistor dos y se cierra el circuito con un quinto resistor de 1.8 k antes de la fuente de voltaje. 
+
+Para este laboratorio se usó el simulador Tinkercad. Se usó una placa de pruebas pequeña y en esta se montaron los resistores. El primer resistor fue de 1 kOhm, luego en serie uno de 3.9 kOhm. En el nodo en medio de estos dos resistores se conectaron en serie dos de 2.2 kOhm para luego unirse al nodo que sale del polo negativo del resistor dos y se cierra el circuito con un quinto resistor de 1.8 kOhm antes de la fuente de voltaje.
 
 
 **6.APORTACIONES**
