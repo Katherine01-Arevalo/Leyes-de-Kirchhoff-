@@ -2,7 +2,7 @@
 
 **1.OBJETIVOS**
 
--	Inducir al estudiante a investigar y profundizar los conocimientos adquiridos en clases. 
+-	Inducir al estudiante a investigar y profundizar los conocimientos adquiridos en clases sobre las Leyes de Kirchhoff. 
 -	Desarrollar las capacidades de resolución de cálculos y construcción de circuitos básicos de los estudiantes. 
 -	Evaluar y estudiar un circuito mediante el uso de las Leyes de Kirchhoff de Voltaje y de Corrientes.
 
