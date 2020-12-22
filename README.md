@@ -24,6 +24,10 @@ Circuito eléctrico mixto
 ![COMPONENTES](https://github.com/Katherine01-Arevalo/Leyes-de-Kirchhoff-/blob/main/img/COMPONENTES.png)
 
 **5.EXPLICACIÓN**
+ Para   validar las leyes de Kirchhoff  de manera teórica y practica se procedió con la ley de voltaje, mediante  el uso de las dos mallas que tiene el circuito eléctrico   y la ley de Ohm se  procedió a  obtener la corriente en cada malla, en  la primera malla se obtuvo  una corriente  de  I=2.05mA y en la segunda de I=0.96mA  con los datos de la corriente y la resistencias se puede obtener el voltaje en cada resistor , ya obtenido cada  voltaje  se reafirma la ley de voltaje de Kirchoff que  establece que la suma de los aumentos y caídas de voltaje es cero.
+
+
+
 
 Para este laboratorio se uso el simulador Tinkercad. 
 Se usó una placa de pruebas pequeña y en esta se montaron los resistores. El primer resistor fue de 1 k, luego en serie uno de 3.9 k. En el nodo en medio de estos dos resistores se conectaron en serie dos de 2.2 k para luego unirse al nodo que sale del polo negativo del resistor dos y se cierra el circuito con un quinto resistor de 1.8 k antes de la fuente de voltaje. 
